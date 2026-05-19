@@ -1,4 +1,4 @@
-<img width="1256" height="819" alt="image" src="https://github.com/user-attachments/assets/71ab10b3-5764-430a-990e-3a8ccc5d248e" /># ⚖️ NyayaAI
+# ⚖️ NyayaAI
 
 NyayaAI is an AI-powered legal document assistant that helps users understand complex legal agreements using OCR, PDF parsing, and Large Language Models.
 
